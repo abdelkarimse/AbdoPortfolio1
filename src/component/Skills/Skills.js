@@ -16,8 +16,8 @@ const Skills = () => {
               <div 
                 className="progress-bar bg-dark" 
                 role="progressbar" 
-                style={{ width: '60%' }} 
-                aria-valuenow="60" 
+                style={{ width: '75%' }} 
+                aria-valuenow="75" 
                 aria-valuemin="0" 
                 aria-valuemax="100"
               >
@@ -32,8 +32,8 @@ const Skills = () => {
               <div 
                 className="progress-bar bg-dark" 
                 role="progressbar" 
-                style={{ width: '70%' }} 
-                aria-valuenow="70" 
+                style={{ width: '60%' }} 
+                aria-valuenow="60" 
                 aria-valuemin="0" 
                 aria-valuemax="100"
               >
