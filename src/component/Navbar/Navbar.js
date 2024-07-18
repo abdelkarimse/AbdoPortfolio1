@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import "C:/Users/aselm/Downloads/Compressed/AbdoProtfolio-main/AbdoProtfolio-main/src/component/assets/css/steller.css";
-import "C:/Users/aselm/Downloads/Compressed/AbdoProtfolio-main/AbdoProtfolio-main/src/component/assets/js/steller.js";
+import "../src/component/assets/css/steller.css";
+import "../src/component/assets/js/steller.js";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
